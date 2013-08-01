@@ -1,0 +1,168 @@
+.picGals .clr {
+	clear: both;
+}
+
+.picGals .pics {
+	display: inline;
+	width: 100%;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.picGals .pics img {
+	display: inline;
+	width: 150px;
+	height: 150px;
+	text-align: center;
+	margin: 15px 15px 15px 15px;
+	border-radius: 50px 50px 50px 50px!important;
+	box-shadow: 0px 2px 2px 12px #666;
+}
+
+body.Dashboard.Plugin.gallery #Body {
+	background: none transparent;
+}
+
+body.Dashboard.Plugin.gallery #Content h1 {
+	display: block;
+	margin: 0 auto;
+	float: none;
+	text-align: center;
+}
+
+body.Dashboard.Plugin.gallery #Content h2 {
+	font-size: 130%;
+	font-weight: bold;
+	margin-bottom: 10px;
+	color: aqua;
+	text-align: center;
+	border: 1px solid #666;
+}
+
+body.Dashboard.Plugin.gallery #Content {
+	width: 90%;
+	margin: 0 auto;
+	float: none;
+}
+
+body.Dashboard.Plugin.gallery #Panel {
+	display: block;
+	margin-left: 250px;
+	margin-top: 50px;
+	width: 250px;
+}
+
+body.Dashboard.Plugin.gallery #Foot {
+	background: none transparent!important;
+	border: none!important;
+	margin: 0 auto;
+	padding: 50px 0 70px!important;
+}
+
+table#Log.AltColumns, div#Content, table#Users.AltColumns, table tbody th, table tbody td, table.Label.AltRows {
+	border: 1px solid #666;
+	width: 100%;
+	float: left;
+	margin-left: -0px;
+	position: relative;
+	text-align: center;
+}
+
+a.gal,a.gal:link {
+	color: #ccc;
+	font-size: 18px!important;
+	font-weight: bold;
+	text-shadow: 0 1px 0 #000;
+}
+
+a.gal:link:hover, a.gal:hover {
+	color: aqua!important;
+	font-size: 18px!important;
+	font-weight: bold;
+	text-shadow: 0 1px 0 #000;
+}
+
+div.Info {
+	background: none transparent;
+	border: none;
+}
+
+body.Dashboard.Plugin.gallery div.picbox img {
+	width: 150px;
+	height: auto;
+}
+
+body #Head div h1 {
+	background: transparent;
+	border: 0;
+	display: inline-block;
+	font-weight: 700;
+	margin: 0;
+	padding: 21px 10px 4px 0;
+}
+
+input.Button {
+	text-shadow: 0 1px 0 #fff;
+}
+
+div#Content h1 {
+	border: 2px solid #666!important;
+}
+
+div#PicGallery {
+	display: inline-block;
+	margin: 0 auto;
+}
+
+div.picbox {
+	width: 230px;
+}
+
+div#PicGallery form {
+	width: 230px;
+	display: inline-block;
+	margin: 0 auto;
+}
+
+h19 {
+	font-size: 28px;
+	font-weight: bold;
+	font-family: Impact,Arial;
+	color: aqua;
+}
+
+h12 {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+body.Dashboard.Plugin.gallery h20 {
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 10px;
+	padding: 3px;
+	color: #FFD700;
+	text-align: center;
+	border: 4px solid red;
+	background: rgba(0,0,0,0.5);
+}
+
+h21 {
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: 10px;
+	color: red;
+	text-align: center;
+	border: none;
+}
+
+a.fancybox img:hover {
+	box-shadow: 0px 2px 2px 12px #aaa;
+}
+
+#Head {
+	background: none transparent;
+	background-repeat: repeat;
+	border: none;
+	padding-left: 10px;
+}

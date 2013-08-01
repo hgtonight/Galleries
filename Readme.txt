@@ -22,3 +22,6 @@ you need to change that in the gallery.php where the path indicates /forum/ , or
 Before you mess it up best ask for guidance if you think you can't do it or don't know how.
 
 You can use this with the VanillaFancyBox plugin, if you do then you can choose to show less images and you can view all the images from the fancy box. You may need to add the plugincontroller to the array of places the fancy box will be used on.
+
+
+If your forum is not called forum, please change all the parts that say forum to the name of the forum. If your forum is in the root please replace all the parts that say forum with a /
